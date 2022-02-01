@@ -215,10 +215,14 @@ http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 http://tvpremiumhd.club/lista-gratuita/181825/on/lives.php?id=5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1 tvg-id="Moovimex.us" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="Mexico",Moovimex (720p)
 http://tvpremiumhd.club/lista-gratuita/181825/on/lives.php?id=dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-id="OnceMexico.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NAgRCyY.png" group-title="Mexico",Once Mexico (720p)
 http://tvpremiumhd.club/lista-gratuita/181825/on/lives.php?id=live2.canaloncelive.tv/livepkgr3/cepro/playlist.m3u8
 EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-country="CL;PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3 (720p)
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-country="CL;PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3 (720p)
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+
+
 
 #EXTINF:-1,Golden Premium
 http://regioplay.xyz/php/SR_REGIO_511022_/regiotv2.php?c=66|User-Agent=esplayer
