@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HauntTV.us" tvg-country="US" tvg-logo="https://i.imgur.com/jCaWSFK.png" group-title="USA",Haunt TV (1080p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8#EXTINF:-1 tvg-id="HauntTV.us" tvg-country="US" tvg-logo="https://i.imgur.com/jCaWSFK.png" group-title="USA",Haunt TV (1080p)
 https://haunttv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CGhost.br" tvg-country="BR" tvg-logo="https://i.imgur.com/ZVO8GVI.png" group-title="Brazil",C-Ghost (1080p)
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
@@ -217,6 +217,13 @@ http://tvpremiumhd.club/lista-gratuita/181825/on/lives.php?id=5e50264bd6766.stre
 http://tvpremiumhd.club/lista-gratuita/181825/on/lives.php?id=dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="OnceMexico.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NAgRCyY.png" group-title="Mexico",Once Mexico (720p)
 http://tvpremiumhd.club/lista-gratuita/181825/on/lives.php?id=live2.canaloncelive.tv/livepkgr3/cepro/playlist.m3u8
+EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-country="CL;PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+
+#EXTINF:-1,Golden Premium
+http://regioplay.xyz/php/SR_REGIO_511022_/regiotv2.php?c=66|User-Agent=esplayer
+#EXTINF:-1,Golden
+http://regioplay.xyz/php/SR_REGIO_511022_/regiotv2.php?c=67|User-Agent=esplayer
 
 #EXTINF:-1 tvg-id="AndFlix.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix (720p) [Geo-blocked]
 https://sneh-z5api.herokuapp.com/?c=0-9-channel_2105335046
