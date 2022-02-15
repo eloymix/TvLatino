@@ -84,12 +84,22 @@ http://greenstreamtv.xyz:25461/Tricia/tricia/3444
 http://greenstreamtv.xyz:25461/Tricia/tricia/3567
 #EXTINF:-1 tvg-id="" tvg-name="LATINO: AZ CORAZON | HD" tvg-logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="Latino",LATINO: AZ CORAZON | HD
 http://greenstreamtv.xyz:25461/Tricia/tricia/3443
-#EXTINF:-1 tvg-id="Canal Las Estrellas Latinoamérica" tvg-name="MX: LAS ESTRELLAS | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Latino",MX: LAS ESTRELLAS | SD
-http://greenstreamtv.xyz:25461/Tricia/tricia/11348
-#EXTINF:-1 tvg-id="" tvg-name="MX: CANAL DE LAS ESTRELLAS | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Latino",MX: CANAL DE LAS ESTRELLAS | SD
-http://greenstreamtv.xyz:25461/Tricia/tricia/11301
+#EXTINF:-1 tvg-id="AZMundo.mx" tvg-name="MEX-Az Mundo (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-aSfRTznx_v8/Xm5mz-FGAgI/AAAAAAAABdU/PnxFmzGDX9sOAjXi_hKnUfL4LNf3jRpYwCLcBGAsYHQ/s200/3.png" group-title="LA-MEXICO",MEX-Az Mundo (M)(1080)
+http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/26982
 #EXTINF:-1 tvg-id="ADN40.TV" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" group-title="Int. América" tvg-name="ADN40 Mexico",ADN40 Mexico
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MX: CANAL DE LAS ESTRELLAS | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Latino",MX: CANAL DE LAS ESTRELLAS | SD
+http://greenstreamtv.xyz:25461/Tricia/tricia/11301
+#EXTINF:-1 tvg-id="Canal Las Estrellas Latinoamérica" tvg-name="MX: LAS ESTRELLAS | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Latino",MX: LAS ESTRELLAS | SD
+http://greenstreamtv.xyz:25461/Tricia/tricia/11348
+#EXTINF:-1 tvg-id="estrella.tv.us" tvg-name="LATINO: ESTRELLA TV | HD" tvg-logo="https://www.kindpng.com/picc/m/705-7057836_estrella-tv-logo-2020-hd-png-download.png" group-title="Latino",LATINO: ESTRELLA TV | HD
+http://greenstreamtv.xyz:25461/Tricia/tricia/3433
+#EXTINF:-1 tvg-id="USBA300040WR" tvg-chno="1255" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/42/USBA300040WR_20201007T012224. png" group-title="ENTRETENIMIENTO",Estrella TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain= %7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="USAJ2200020N4" tvg-chno="1256" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/62/USAJ2200020N4_20201208T081615. png" group-title="ENTRETENIMIENTO",Noticias Estrella
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain= %7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D  
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200" group-title="Int. América" tvg-name="Televisa News Mexico",Televisa News Mexico
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
@@ -142,26 +152,17 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/nueva-imagen-television.png" group-title="AMBA", NUEVA IMAGEN televisión
 http://server.miamitvchannel.com/externos/nuevaimagen/playlist.m3u8
-#EXTINF:-1 tvg-id="estrella.tv.us" tvg-name="LATINO: ESTRELLA TV | HD" tvg-logo="https://www.kindpng.com/picc/m/705-7057836_estrella-tv-logo-2020-hd-png-download.png" group-title="Latino",LATINO: ESTRELLA TV | HD
-http://greenstreamtv.xyz:25461/Tricia/tricia/3433
-#EXTINF:-1 tvg-id="USBA300040WR" tvg-chno="1255" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/42/USBA300040WR_20201007T012224. png" group-title="ENTRETENIMIENTO",Estrella TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain= %7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="USAJ2200020N4" tvg-chno="1256" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/62/USAJ2200020N4_20201208T081615. png" group-title="ENTRETENIMIENTO",Noticias Estrella
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain= %7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D  
 
 #EXTINF:-1 tvg-id="" tvg-name="LATINO: UNIM | HD" tvg-logo="https://www.seekpng.com/png/detail/190-1908061_unum-logo-unum-group-logo.png" group-title="Latino",LATINO: UNIM | HD
 http://greenstreamtv.xyz:25461/Tricia/tricia/3519
 #EXTINF:-1 tvg-id="" tvg-name="LATINO: UNIVERSO | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/UNIVERSO_LOGO_color_black.png" group-title="Latino",LATINO: UNIVERSO | HD
+#EXTINF:-1 tvg-id="univision.us" tvg-name="Univision East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="USA",Univision East
+http://greenstreamtv.xyz:25461/Tricia/tricia/11774
 http://greenstreamtv.xyz:25461/Tricia/tricia/3518
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Univision New Jersey" tvg-logo="https://www.freepnglogos.com/uploads/univision-png-logo/univision-emblem-png-logo-7.png" group-title="Latino",Latino: Univision New Jersey
 http://greenstreamtv.xyz:25461/Tricia/tricia/11482
 #EXTINF:-1 tvg-id="univisiontlnovelas.us" tvg-name="LATINO: UNIVISION TLNOVELAS | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/5169px-Univision_tlnovelas_%282019%29.svg.png" group-title="Latino",LATINO: UNIVISION TLNOVELAS | SD
 http://greenstreamtv.xyz:25461/Tricia/tricia/3520
-#EXTINF:-1 tvg-id="MX - Univision" tvg-name="LATINO: UNIVISION | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="Latino",LATINO: UNIVISION | HD
-http://greenstreamtv.xyz:25461/Tricia/tricia/3526
-#EXTINF:-1 tvg-id="univision.us" tvg-name="Univision East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="USA",Univision East
-http://greenstreamtv.xyz:25461/Tricia/tricia/11774
-
 
 #EXTINF:-1 tvg-id="RCGTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1qrh5SC.png" group-title="",RCG TV (1080p)
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
@@ -252,12 +253,19 @@ https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3U
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1026_Tele_Mix.png" group-title="AMBA", TELE MIX CANAL 50 GLEW
 https://panel.dattalive.com:443/8068/8068/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png" group-title="CINE", TV MAS
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/891_Viwix_TV.png" group-title="CINE", VIWIX TV
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+
+#EXTINF:-1 tvg-id="891" tvg-name="Viwix TV" tvg-logo="https://www.m3u.cl/logo/891_Viwix_TV.png", Viwix TV | CL
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE", A3CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="CINE - A3 Series (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-nYXXZBWn3K8/Xbf03udfliI/AAAAAAAAAuQ/TbR_EaUFPp4owroSxx09nXC7CHvvW1q0ACLcBGAsYHQ/s200/58.png" group-title="CANALES-ENTRETENIMIENTO",CINE - A3 Series (M)(1080)
+http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/26906
+
 #EXTINF:-1 tvg-id="" tvg-name="LATINO: ESTUDIO 5 | HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/estudio-logo-png-transparent.png" group-title="Latino",LATINO: ESTUDIO 5 | HD
-http://greenstreamtv.xyz:25461/Tricia/tricia/3432#EXTINF:-1 tvg-id="641" tvg-name="UMTV" tvg-logo="https://www.m3u.cl/logo/641_UMTV.png", UMTV | MX
+http://greenstreamtv.xyz:25461/Tricia/tricia/3432
+#EXTINF:-1 tvg-id="641" tvg-name="UMTV" tvg-logo="https://www.m3u.cl/logo/641_UMTV.png", UMTV | MX
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CinemaMás.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Movies",Cinema+ (720p)
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
@@ -282,14 +290,16 @@ https://59d39900ebfb8.streamlock.net/canelatv/canelatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Moovimex.us" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="Movies",Moovimex (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/67cfee_49425450898040a0b4639d426e93bcba~mv2.png/v1/fill/w_326,h_326,al_c,usm_0.66_1.00_0.01/LOGO%20TELE% 20CLASICOS%20COLORES%20CANAL%20PNG.png" group-title="SERIES", TELECLASICO
+https://tvdatta.com:3484/stream/play.m3u8
+#EXTINF:-1 tvg-id="Teleclásicos.pa" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/109037038122033/picture?width=320&height=320" group-title="",Teleclásicos (550p) [Not 24/7]
 https://tvdatta.com:3484/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="MÉXICO",Conecta TV
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="COSTA RICA",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-country="CL;PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3 (720p)
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
@@ -300,8 +310,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 
 #EXTINF:-1 tvg-id="CanalMundoPlus.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9BtSyV2.png" group-title="",Canal Mundo+ (560p) [Not 24/7]
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleclásicos.pa" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/109037038122033/picture?width=320&height=320" group-title="",Teleclásicos (550p) [Not 24/7]
-https://tvdatta.com:3484/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LATINO: ATB (BO) | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ATB_Market_logo.svg/2560px-ATB_Market_logo.svg.png" group-title="Latino",LATINO: ATB (BO) | SD
 http://greenstreamtv.xyz:25461/Tricia/tricia/3550
@@ -309,10 +317,6 @@ http://greenstreamtv.xyz:25461/Tricia/tricia/3550
 http://greenstreamtv.xyz:25461/Tricia/tricia/3509
 #EXTINF:-1 tvg-id="EPG123.74016.schedulesdirect.org" tvg-name="MX: DE PELICULA PLUS | HD" tvg-logo="https://i.ibb.co/2NDbZM7/DE-PELICULA-PLUS.png" group-title="Latino",MX: DE PELICULA PLUS | HD
 http://greenstreamtv.xyz:25461/Tricia/tricia/11313
-#EXTINF:-1 tvg-id="EPG123.74016.schedulesdirect.org" tvg-name="MX: DE PELICULA | SD" tvg-logo="https://i.ibb.co/2NDbZM7/DE-PELICULA-PLUS.png" group-title="Latino",MX: DE PELICULA | SD
-http://greenstreamtv.xyz:25461/Tricia/tricia/11314
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: DP DE PELICULA | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Latino",LATINO: DP DE PELICULA | SD
-http://greenstreamtv.xyz:25461/Tricia/tricia/3509
 
 #EXTINF:-1 tvg-id="PlutoTVCineAccion.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="USA",Pluto TV Cine Acción (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
@@ -360,14 +364,15 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41319
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204311
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",GOLDEN 
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/219023
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",GOLDEN 1
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",GOLDEN PREMIER
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204499
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",GOLDEN 2
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",GOLDEN EDGE
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204344
+
+#EXTINF:-1 tvg-id="GoldenLatinoamerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="Movies",Golden Latinoamérica (1080p) [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG123.66349.schedulesdirect.org" tvg-name="MX: SPACE | HD" tvg-logo="https://i.ibb.co/1L02Ggf/SPACE.png" group-title="Latino",MX: SPACE | HD
 http://greenstreamtv.xyz:25461/Tricia/tricia/11363
-#EXTINF:-1 tvg-logo="https://puu.sh/reX9a/e5e9972612.png" group-title="SERIES", SPACE
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56268
 #EXTINF:-1 tvg-id="I518.70351.schedulesdirect.org" tvg-name="Space" tvg-logo="https://3.bp.blogspot.com/-ifCagZ77nfw/W6ls2LsJInI/AAAAAAAAAN0/_I_JmomLjTQi9WTGmoACu3q4mRNmJW03wCPcBGAYYCw/s1600/space.png" group-title="CINE",Space
 http://plustv.ddns.me:33200/cristobal02/cristobal02/47856
 #EXTINF:-1 tvg-id="I518.70351.schedulesdirect.org" tvg-name="Space HD" tvg-logo="https://3.bp.blogspot.com/-ifCagZ77nfw/W6ls2LsJInI/AAAAAAAAAN0/_I_JmomLjTQi9WTGmoACu3q4mRNmJW03wCPcBGAYYCw/s1600/space.png" group-title="CINE",Space HD
@@ -386,20 +391,9 @@ http://greenstreamtv.xyz:25461/Tricia/tricia/3438
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56239
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="SERIE", Cinemax
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56481
-#EXTINF:-1 tvg-id="" tvg-name="Latino: HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Latino",Latino: HBO Family
-http://greenstreamtv.xyz:25461/Tricia/tricia/10993
-#EXTINF:-1 tvg-id="" tvg-name="Latino: HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Latino",Latino: HBO Plus
-http://greenstreamtv.xyz:25461/Tricia/tricia/10995
-#EXTINF:-1 tvg-id="" tvg-name="Latino: HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Latino",Latino: HBO Signature
-http://greenstreamtv.xyz:25461/Tricia/tricia/10997
-#EXTINF:-1 tvg-id="" tvg-name="Lation: HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="Latino",Lation: HBO Mundi
-http://greenstreamtv.xyz:25461/Tricia/tricia/10994
-#EXTINF:-1 tvg-id="US: ABC NEW YORK WABC" tvg-name="LATINO: HBO | HD" tvg-logo="https://png.pngitem.com/pimgs/s/153-1531024_hbo-logo-transparent-hd-png-download.png" group-title="Latino",LATINO: HBO | HD
-http://greenstreamtv.xyz:25461/Tricia/tricia/3468
-#EXTINF:-1 tvg-id="451" tvg-name="Latino: HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Latino",Latino: HBO2
-http://greenstreamtv.xyz:25461/Tricia/tricia/10992
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="Latino HBO Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="Latino",Latino HBO Extreme
-http://greenstreamtv.xyz:25461/Tricia/tricia/10998
+#EXTINF:-1 tvg-id="PlanetatvMovie.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="" group-title="",Planetatv Movie (640p)
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino: HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Latino",Latino: HBO Family
 http://greenstreamtv.xyz:25461/Tricia/tricia/10993
 #EXTINF:-1 tvg-id="" tvg-name="Latino: HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Latino",Latino: HBO Plus
@@ -433,7 +427,7 @@ http://plustv.ddns.me:33200/cristobal02/cristobal02/50469
 http://plustv.ddns.me:33200/cristobal02/cristobal02/50470
 #EXTINF:-1 tvg-id="starz.encore.action.eastern.us" tvg-name="LATINO: STARZ ENCORE | HD" tvg-logo="https://www.kindpng.com/picc/m/277-2770653_transparent-starz-png-starz-encore-logo-png-png.png" group-title="Latino",LATINO: STARZ ENCORE | HD
 http://greenstreamtv.xyz:25461/Tricia/tricia/3469
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="SERIES",Películas FX
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="SERIES",Películas FXM
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56257
 #EXTINF:-1 tvg-logo="https://puu.sh/mP1b6/411b64dc27.png" group-title="SERIES",TCM
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204458
@@ -441,6 +435,9 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204458
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204357
 
 
+
+#EXTINF:-1 tvg-id="UNOPLAY.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RReDi1C.png" group-title="Entertainment",UNO PLAY (720p) [Not 24/7]
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Telefórmula" tvg-name="LATINO: TELEFORMULA | HD" tvg-logo="https://i.pinimg.com/564x/07/ae/79/07ae799525ccc413de53512acbb4e0c4--oaxaca-mexico.jpg" group-title="Latino",LATINO: TELEFORMULA | HD
 http://greenstreamtv.xyz:25461/Tricia/tricia/3424#EXTINF:-1 tvg-id="" tvg-name="LATINO: CNN LATIN | SD" tvg-logo="https://www.freepnglogos.com/uploads/cnn-logo-transparent-png-1.png" group-title="Latino",LATINO: CNN LATIN | SD
@@ -2390,3 +2387,10 @@ http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/1673
 http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/1674
 #EXTINF:-1 tvg-id="DTVCinema121.us" tvg-name="PPV Cinema Latino 33(M)" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png" group-title="*****CINEMA ESTELAR*****",PPV Cinema Latino 33(M)
 http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/1675
+
+
+#EXTINF:-1 tvg-id="Taroteame.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OgEeQzl.jpg" group-title="Religious",Tarotéame (576p) [Not 24/7]
+http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tarotvision.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="" group-title="",Tarotvision (576p) [Not 24/7]
+http://149.12.64.81:8080/hls/tarotvision.m3u8
