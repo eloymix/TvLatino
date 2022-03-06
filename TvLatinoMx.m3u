@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-id="HauntTV.us" tvg-country="US" tvg-logo="https://i.imgur.com/jCaWSFK.png" group-title="USA",Haunt TV (1080p)
 https://haunttv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Horrify.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/NCbpYa4.png" group-title="Movies",Horrorfy https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-#
+#EXTINF:-1 tvg-id="Horrify.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/NCbpYa4.png" group-title="Movies",Horrorfy (1080p) https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+
 #EXTINF:-1 tvg-id="CGhost.br" tvg-country="BR" tvg-logo="https://i.imgur.com/ZVO8GVI.png" group-title="Brazil",C-Ghost (1080p)
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericanHorrors.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="USA",American Horrors (480p)
